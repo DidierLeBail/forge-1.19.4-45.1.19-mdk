@@ -26,6 +26,7 @@ public class ChoupiMod
         MinecraftForge.EVENT_BUS.register(this);
     }
 
+    //comment
     private void commonSetup(final FMLCommonSetupEvent event)
     {
 
